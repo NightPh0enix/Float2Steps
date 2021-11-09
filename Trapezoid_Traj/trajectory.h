@@ -2,8 +2,7 @@
 
 
 
-#include <cmath>
-double totalTime;
+
 
 std::vector<double> timevector;
 std::vector<double> velocityVector;
